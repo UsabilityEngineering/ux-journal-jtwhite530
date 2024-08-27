@@ -1,6 +1,7 @@
-# UX Portfolio
+# Jameson UX Portfolio 
 
-About me...
+about me...
+I am a CINS major here at Chico State and will do once I get home
 
 ## UX Team Project
 
