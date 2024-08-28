@@ -13,4 +13,4 @@ Coming soon.
 
 ## UX Journal
 
-[Replace with title of journal](j01/)
+ux-journal-jtwhite530(j01/)
