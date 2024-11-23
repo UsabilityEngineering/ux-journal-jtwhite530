@@ -13,4 +13,4 @@ Coming soon.
 
 ## UX Journal
 
-[Frustrations in Fine Tuning](j01/Frustrations%20in%20Fine%20Tuning.md)
+[Frustrations in Fine Tuning](j01/README.md)
