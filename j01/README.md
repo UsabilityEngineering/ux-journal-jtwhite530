@@ -1,6 +1,6 @@
 # UX Journal URL
 
----
+
 
 ## Scheduling on Google Nest: Frustrations in Fine Tuning
 
