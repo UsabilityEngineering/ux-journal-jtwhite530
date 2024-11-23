@@ -1,4 +1,3 @@
-## (https://usabilityengineering.github.io/ux-journal-jtwhite530)
 
 
 
