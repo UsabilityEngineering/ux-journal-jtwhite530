@@ -1,4 +1,4 @@
-## [UsabilityEngineering/ux-journal-jtwhite530](https://github.com/UsabilityEngineering/ux-journal-jtwhite530)
+## [UsabilityEngineering/ux-journal-jtwhite530](https://usabilityengineering.github.io/ux-journal-jtwhite530)
 
 
 
