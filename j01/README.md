@@ -1,4 +1,5 @@
-# UX Journal URL
+[UsabilityEngineering/ux-journal-jtwhite530](https://github.com/UsabilityEngineering/ux-journal-jtwhite530)
+
 
 
 
