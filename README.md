@@ -13,4 +13,4 @@ Coming soon.
 
 ## UX Journal
 
-ux-journal-jtwhite530(j01/)
+[Frustrations in Fine Tuning](../j01/Frustrations%20in%20Fine%20Tuning.md)
