@@ -7,7 +7,7 @@
 
 ### Jameson White - 11/21/2024
 
-I have found myself working with the Google Nest thermostat more these days as the temperatures continue to change. One thing I thought would help me gain back more time was running the thermostat on a schedule. I hoped that scheduling would automate temperature changes throughout the day without needing my constant attention. However, I quickly discovered that the process of creating and fine tuning a schedule presented **several usability challenges**.
+I have found myself working with the Google Nest thermostat more these days as the temperatures continue to change. One thing I thought would help me gain back more time was running the thermostat on a schedule. I hoped that scheduling would automate temperature changes throughout the day without needing my constant attention. However, I quickly discovered that the process of creating and **fine tuning a schedule presented several usability challenges**.
 
 ![Google Nest Settings Screen](../assets/NUM4.jpg) ![Schedule Menu](../assets/NUM3.jpg)
 
