@@ -9,7 +9,8 @@
 
 I have found myself working with the Google Nest thermostat more these days as the temperatures continue to change. One thing I thought would help me gain back more time was running the thermostat on a schedule. I hoped that scheduling would automate temperature changes throughout the day without needing my constant attention. However, I quickly discovered that the process of creating and fine tuning a schedule presented several usability challenges.
 
-![Google Nest Settings Screen](./assets/thumbnail_image0.jpg) ![Schedule Menu](./assets/thumbnail_image1.jpg)
+![Google Nest Settings Screen](../assets/thumbnail_image0.jpg) ![Schedule Menu](../assets/thumbnail_image1.jpg)
+
 The process began with navigating to the "Settings" menu on the thermostat and selecting "Schedule." The interface was visually straightforward and appeared user friendly, but it lacked clear instructions on how to start creating a schedule. Once I accessed the "Schedule" option, I was presented with a timeline view that showed the existing temperature settings. The visual representation was clean, but I found myself guessing how to make precise adjustments.
 
 ![Timeline Adjustment](./assets/thumbnail_image2.jpg)
