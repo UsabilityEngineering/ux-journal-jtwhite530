@@ -9,7 +9,7 @@ A fun fact about me is that, outside of academics, I balance full time work and 
 
 ## UX Team Project
 
-[View Project Repository](https://github.com/ChicoState/ux-AroundU/tree/main)
+[AroundU](https://github.com/ChicoState/ux-AroundU/tree/main)
 
 ## UX Journal
 
